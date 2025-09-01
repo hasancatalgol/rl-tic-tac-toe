@@ -21,6 +21,9 @@ The AI prints search metrics (nodes, leaves, cutoffs, α/β window) to the conso
 
 ### Requirements
 
+Create Virtual Environment:
+
+    uv init
 
 Install:
 
